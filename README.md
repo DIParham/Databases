@@ -26,4 +26,4 @@ Another issue that I found was adding and saving data to MongoDB from the dashbo
 
 [Enhancement Two](https://github.com/DIParham/Data-Structures/tree/master/Enhancement2)
 
-[Enhancement Three](https://diparham.github.io/Databases/)
+[Enhancement Three](https://github.com/DIParham/Databases/tree/master/Databases%20Artifact)
