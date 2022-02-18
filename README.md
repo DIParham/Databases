@@ -17,7 +17,7 @@ The most challenging portion of the project revolved around linking the drop dow
 Another issue that I found was adding and saving data to MongoDB from the dashboard. I have been able to add rows to the data table however, it did not except user input. This was a challenge that required me further research and experimentation. Through this process, I had found that the "editable" parameter had not been set. The default value for this parameter is set to "False" which prevents editing within the database. By adjusting the parameter's value to "True", it resolved this issue.   
 
 ### Artifact Link:
-[Enhancement Three](https://github.com/DIParham/Databases/tree/master/Databases%20Artifact)
+[Enhancement Three Repository](https://github.com/DIParham/Databases/tree/master/Databases%20Artifact)
 
 ### ePortfolio Links:
 [Code Review](https://www.screencast.com/t/xoiB2GQ8Jtb7)
